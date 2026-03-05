@@ -12,4 +12,7 @@
 二、环境依赖（都在master的branch分支下）
 1. Python 环境（姿态检测端） Python3.12+PyCharm2024.3 UDO07.py实现  project1文件夹（除了gradution文件夹下的其他文件）导入Pycharm
 2. Unity 环境（角色驱动端）  C＃＋Unity 2021.3.34f1c1 graduation.sln实现  graduation文件夹导入unity
-   
+
+三、系统泳道流程图
+   <img width="974" height="735" alt="image" src="https://github.com/user-attachments/assets/95334488-4aec-49b5-ab0e-46cccdf07614" />
+
