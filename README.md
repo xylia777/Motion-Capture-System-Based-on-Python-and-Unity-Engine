@@ -1,0 +1,2 @@
+# Motion-Capture-System-Based-on-Python-and-Unity-Engine
+采用了Python语言处理通过摄像头采集的用户身体动作数据，调用MediaPipe框架进行人体关键点检测；使用Unity引擎作为搭建虚拟场景和虚拟人物模型的平台，通过Socket通信把数据从Python端实时传输到Unity端从而实现角色驱动。
